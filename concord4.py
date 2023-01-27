@@ -8,8 +8,8 @@ INDEX_LINES = 1
 KEYWORDS    = 2
 
 # line_key_pair (tuple) index constants:
-LINE = 0
-KEY  = 1
+LINE  = 0
+KEY   = 1
 INDEX = 2
 
 # output specification [index] constants:
