@@ -1,5 +1,5 @@
 # Concordance-4
-Text concordance algorithm in Python3 that generates formatted and lexicographically sorted output.
+Text concordance algorithm in Python3 that generates a formatted and lexicographically sorted output.
 
 Algorithm takes ".txt" input specifying exclusion words (i.e. words not to be indexed by algorithm) and body text to be processed and sorted via concordance specification. This output is written to a specifed ".txt" output file.
 
